@@ -1,0 +1,5 @@
+huggingface_hub
+llama-cpp-python
+httpx
+pydantic-ai
+
